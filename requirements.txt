@@ -1,0 +1,9 @@
+ray==1.10.0
+ray[tune]==1.10.0
+imblearn==0.0
+pytorch_tabnet==3.1.1
+torch==1.10.2 
+xgboost==1.5.2
+hyperopt==0.2.7 
+flask==2.0.2
+flask_restful==0.3.9
