@@ -7,3 +7,4 @@ xgboost==1.5.2
 hyperopt==0.2.7 
 flask==2.0.2
 flask_restful==0.3.9
+shap==0.40.0 
